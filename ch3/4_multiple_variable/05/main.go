@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"rsc.io/quote"
 )
 
 func main() {
-	fmt.Println(quote.Hello())
+	age := 29       // age is int
+	fmt.Println(age)
 }
